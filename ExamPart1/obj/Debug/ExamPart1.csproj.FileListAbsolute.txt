@@ -1,0 +1,14 @@
+C:\Users\yk0225jc\source\repos\ExamPart1\ExamPart1\bin\Debug\ExamPart1.exe.config
+C:\Users\yk0225jc\source\repos\ExamPart1\ExamPart1\bin\Debug\ExamPart1.exe
+C:\Users\yk0225jc\source\repos\ExamPart1\ExamPart1\bin\Debug\ExamPart1.pdb
+C:\Users\yk0225jc\source\repos\ExamPart1\ExamPart1\obj\Debug\ExamPart1.csprojAssemblyReference.cache
+C:\Users\yk0225jc\source\repos\ExamPart1\ExamPart1\obj\Debug\ExamPart1.csproj.CoreCompileInputs.cache
+C:\Users\yk0225jc\source\repos\ExamPart1\ExamPart1\obj\Debug\ExamPart1.exe
+C:\Users\yk0225jc\source\repos\ExamPart1\ExamPart1\obj\Debug\ExamPart1.pdb
+C:\Users\yk0225jc\OneDrive - MNSCU\CIS 414\ExamPart1\ExamPart1\bin\Debug\ExamPart1.exe.config
+C:\Users\yk0225jc\OneDrive - MNSCU\CIS 414\ExamPart1\ExamPart1\bin\Debug\ExamPart1.exe
+C:\Users\yk0225jc\OneDrive - MNSCU\CIS 414\ExamPart1\ExamPart1\bin\Debug\ExamPart1.pdb
+C:\Users\yk0225jc\OneDrive - MNSCU\CIS 414\ExamPart1\ExamPart1\obj\Debug\ExamPart1.csprojAssemblyReference.cache
+C:\Users\yk0225jc\OneDrive - MNSCU\CIS 414\ExamPart1\ExamPart1\obj\Debug\ExamPart1.csproj.CoreCompileInputs.cache
+C:\Users\yk0225jc\OneDrive - MNSCU\CIS 414\ExamPart1\ExamPart1\obj\Debug\ExamPart1.exe
+C:\Users\yk0225jc\OneDrive - MNSCU\CIS 414\ExamPart1\ExamPart1\obj\Debug\ExamPart1.pdb

@@ -1,0 +1,7 @@
+C:\Users\yk0225jc\source\repos\ExamPart1\ExamPart1\bin\Debug\ExamPart1.exe.config
+C:\Users\yk0225jc\source\repos\ExamPart1\ExamPart1\bin\Debug\ExamPart1.exe
+C:\Users\yk0225jc\source\repos\ExamPart1\ExamPart1\bin\Debug\ExamPart1.pdb
+C:\Users\yk0225jc\source\repos\ExamPart1\ExamPart1\obj\Debug\singleton_Practice.csprojAssemblyReference.cache
+C:\Users\yk0225jc\source\repos\ExamPart1\ExamPart1\obj\Debug\singleton_Practice.csproj.CoreCompileInputs.cache
+C:\Users\yk0225jc\source\repos\ExamPart1\ExamPart1\obj\Debug\ExamPart1.exe
+C:\Users\yk0225jc\source\repos\ExamPart1\ExamPart1\obj\Debug\ExamPart1.pdb
